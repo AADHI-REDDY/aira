@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="aira0" x1="18" y1="6" x2="44" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E7FFF8"/>
+      <stop offset="1" stop-color="#89E6D6"/>
+    </linearGradient>
+    <linearGradient id="aira1" x1="36" y1="10" x2="58" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9FBF4"/>
+      <stop offset="1" stop-color="#9FE0DC"/>
+    </linearGradient>
+    <linearGradient id="aira2" x1="38" y1="30" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FAD4E4"/>
+      <stop offset="1" stop-color="#F0A3C6"/>
+    </linearGradient>
+    <linearGradient id="aira3" x1="40" y1="46" x2="20" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4A8C6"/>
+      <stop offset="1" stop-color="#EB6EAA"/>
+    </linearGradient>
+    <linearGradient id="aira4" x1="24" y1="46" x2="8" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E996CA"/>
+      <stop offset="1" stop-color="#D15BB0"/>
+    </linearGradient>
+    <linearGradient id="aira5" x1="8" y1="16" x2="28" y2="34" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D4C4F6"/>
+      <stop offset="1" stop-color="#E9A6D4"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(32 32)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-5-17.2H10.8V-1.6" stroke="url(#aira0)" transform="rotate(-12)"/>
+    <path d="M-5-17.2H10.8V-1.6" stroke="url(#aira1)" transform="rotate(48)"/>
+    <path d="M-5-17.2H10.8V-1.6" stroke="url(#aira2)" transform="rotate(108)"/>
+    <path d="M-5-17.2H10.8V-1.6" stroke="url(#aira3)" transform="rotate(168)"/>
+    <path d="M-5-17.2H10.8V-1.6" stroke="url(#aira4)" transform="rotate(228)"/>
+    <path d="M-5-17.2H10.8V-1.6" stroke="url(#aira5)" transform="rotate(288)"/>
+  </g>
+</svg>
